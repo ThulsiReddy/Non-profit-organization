@@ -27,7 +27,7 @@
 
     div {
         position: relative;
-        background-color: grey;
+        background-color: lightpink;
         border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
@@ -37,6 +37,7 @@
 
     .sub1 {
         float: right;
+        color:brown;
         width: 100px;
         padding: 5px;
         margin: -3px -3px 0px;
@@ -50,11 +51,11 @@
 
     .sub2 {
         float: right;
-        color: white;
+        color: brown;
         width: 100px;
         padding: 5px;
         margin: -3px -3px 0px;
-        border: 3.5px solid blue;
+        border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
         font-weight: bold;
@@ -63,7 +64,7 @@
     }
 
     .sub3 {
-        color: black;
+        color: brown;
         float: right;
         width: 100px;
         padding: 5px;
