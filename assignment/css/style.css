@@ -4,7 +4,7 @@
     }
 
     body {
-        background-color: lightpink;
+        background-color:white;
     }
 
     h1 {
@@ -28,7 +28,7 @@
     div {
         position: relative;
         background-color: grey;
-        border: 3.5px solid blue;
+        border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
@@ -40,7 +40,7 @@
         width: 100px;
         padding: 5px;
         margin: -3px -3px 0px;
-        border: 3.5px solid blue;
+        border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
         font-weight: bold;
@@ -50,7 +50,7 @@
 
     .sub2 {
         float: right;
-        color: lightpink;
+        color: white;
         width: 100px;
         padding: 5px;
         margin: -3px -3px 0px;
@@ -81,7 +81,7 @@
         border: none;
         background-color: gray;
         font-family: Helvetica;
-        color: blue;
+        color: black;
         margin: 3px ;
         height: 150px;
         overflow: auto;
